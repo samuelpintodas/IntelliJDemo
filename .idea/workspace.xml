@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55f09207-e99d-40eb-8c89-4172179eb105" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/bin/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/data/la chatte à olivier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/data/test file from .10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/data/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Client/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/ServerLogger_janv.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/ServerLogger_janv.log.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/bin/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/633-2 project Oliv&amp;Jon - Server/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/IntelliJDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJDemo/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/Java_Cours9.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/bin/HSQLDBCLeanInstallation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/lib/hsqldb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/lib/sqltool.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Cours10/src/HSQLDBCLeanInstallation.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/1erCours/bin/" />
+    <ignored path="$PROJECT_DIR$/_Brouillons/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_10emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_1erCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_2emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_3emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_4emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_5emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_6emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_7emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_8emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_9emeCours/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_CC2013/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_CC2015/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_Entrainement_CC2013/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_Entrainement_CC2015/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_Recherches/bin/" />
+    <ignored path="$PROJECT_DIR$/Algo_Tris/bin/" />
+    <ignored path="$PROJECT_DIR$/ClientConnectionTest/bin/" />
+    <ignored path="$PROJECT_DIR$/.recommenders/snipmatch/repositories/http___git_eclipse_org_gitroot_recommenders_org_eclipse_recommenders_snipmatch_snippets_git/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_CC/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_Logging/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_NetworkInterfaceTest/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_Sockets/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_SocketsLoan/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_SocketsQuentin/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_SocketsReadWrite/bin/" />
+    <ignored path="$PROJECT_DIR$/DP_Threads/bin/" />
+    <ignored path="$PROJECT_DIR$/FileOpenerJava/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours1/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours2/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours3/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours4/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours5/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours6/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours7/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours8/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours9/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Cours9.1/bin/" />
+    <ignored path="$PROJECT_DIR$/ReadWriteSokets/bin/" />
+    <ignored path="$PROJECT_DIR$/SamuelPintoDaSilvaCC1/bin/" />
+    <ignored path="$PROJECT_DIR$/ServerConnectionTest/bin/" />
+    <ignored path="$PROJECT_DIR$/SocketReadWrite/bin/" />
+    <ignored path="$PROJECT_DIR$/Threads_DP/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Algo_4emeCours/src/Hanoi.java" />
+        <option value="D:/Documents/HES/2ème année/Jon/Semestre 3/programmation distribuée/633-2 project Oliv&amp;Jon/java projects/633-2 project Oliv&amp;Jon - Client/src/client/Client.java" />
+        <option value="$PROJECT_DIR$/Java_Cours9.1/src/HSQLDBCLeanInstallation.java" />
+        <option value="$PROJECT_DIR$/Algo_10emeCours/src/Sudoku.java" />
+        <option value="$PROJECT_DIR$/Algo_10emeCours/src/sudoku/Sudoku.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543931470076" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\workspaces\Semestre_3\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\workspaces\Semestre_3" />
+      <recent name="C:\Users\samue\workspaces\Semestre_3\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Sudoku">
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="Algo_6emeCours" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sudoku.Sudoku" />
+      <module name="Algo_10emeCours" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sudoku" />
+        <item itemvalue="Application.Permutation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\samue\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f09207-e99d-40eb-8c89-4172179eb105" name="Default Changelist" comment="" />
+      <created>1543493708755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543493708755</updated>
+      <workItem from="1543493715995" duration="1748000" />
+      <workItem from="1543495498504" duration="582000" />
+      <workItem from="1543563336706" duration="202000" />
+      <workItem from="1543563568947" duration="144000" />
+      <workItem from="1543908838799" duration="1791000" />
+      <workItem from="1543930175504" duration="7000" />
+      <workItem from="1543930218816" duration="1287000" />
+      <workItem from="1543931538145" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6017000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1438802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25737265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25737265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algo_4emeCours/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_4emeCours/src/factorielle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_4emeCours/src/Hanoi_time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_4emeCours/src/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_6emeCours/src/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_4emeCours/src/fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Documents/HES/2ème année/Jon/Semestre 3/programmation distribuée/633-2 project Oliv&amp;Jon/java projects/633-2 project Oliv&amp;Jon - Client/src/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#11135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Cours9.1/src/HSQLDBCLeanInstallation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_10emeCours/src/SudokuCorriger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_10emeCours/src/sudoku/Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_10emeCours/src/Pyramide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1erCours</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

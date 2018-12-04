@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;DP_Threads/src/demoThreads&apos;&#x0D;&#x0A;- Original project: &apos;DP_SocketsLoan&apos;&#x0D;&#x0A;- Destination element: &apos;DP_Threads/src/demoThreads&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     demoThreadSrv.ClientForThread.java&#x0D;&#x0A;     demoThreadSrv.AcceptClientD.java&#x0D;&#x0A;     demoThreadSrv.ServerMultiThreadD.java" description="Copy compilation units" destination="=DP_Threads/src&lt;demoThreads" element1="/src&lt;demoThreadSrv{ClientForThread.java" element2="/src&lt;demoThreadSrv{AcceptClientD.java" element3="/src&lt;demoThreadSrv{ServerMultiThreadD.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1542282699425" units="3" version="1.0"/>
+</session>

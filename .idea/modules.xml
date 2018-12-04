@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1erCours/1erCours.iml" filepath="$PROJECT_DIR$/1erCours/1erCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_10emeCours/Algo_10emeCours.iml" filepath="$PROJECT_DIR$/Algo_10emeCours/Algo_10emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_10emeCours/Algo_11meCours.iml" filepath="$PROJECT_DIR$/Algo_10emeCours/Algo_11meCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_1erCours/Algo_1erCours.iml" filepath="$PROJECT_DIR$/Algo_1erCours/Algo_1erCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_2emeCours/Algo_2emeCours.iml" filepath="$PROJECT_DIR$/Algo_2emeCours/Algo_2emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_3emeCours/Algo_3emeCours.iml" filepath="$PROJECT_DIR$/Algo_3emeCours/Algo_3emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_4emeCours/Algo_4emeCours.iml" filepath="$PROJECT_DIR$/Algo_4emeCours/Algo_4emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_5emeCours/Algo_5emeCours.iml" filepath="$PROJECT_DIR$/Algo_5emeCours/Algo_5emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_6emeCours/Algo_6emeCours.iml" filepath="$PROJECT_DIR$/Algo_6emeCours/Algo_6emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_7emeCours/Algo_7emeCours.iml" filepath="$PROJECT_DIR$/Algo_7emeCours/Algo_7emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_8emeCours/Algo_8emeCours.iml" filepath="$PROJECT_DIR$/Algo_8emeCours/Algo_8emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_9emeCours/Algo_9emeCours.iml" filepath="$PROJECT_DIR$/Algo_9emeCours/Algo_9emeCours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_CC2013/Algo_CC2013.iml" filepath="$PROJECT_DIR$/Algo_CC2013/Algo_CC2013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_CC2015/Algo_CC2015.iml" filepath="$PROJECT_DIR$/Algo_CC2015/Algo_CC2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_Entrainement_CC2013/Algo_Entrainement_CC2013.iml" filepath="$PROJECT_DIR$/Algo_Entrainement_CC2013/Algo_Entrainement_CC2013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_Entrainement_CC2015/Algo_Entrainement_CC2015.iml" filepath="$PROJECT_DIR$/Algo_Entrainement_CC2015/Algo_Entrainement_CC2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_Recherches/Algo_Recherches.iml" filepath="$PROJECT_DIR$/Algo_Recherches/Algo_Recherches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algo_Tris/Algo_Tris.iml" filepath="$PROJECT_DIR$/Algo_Tris/Algo_Tris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientConnectionTest/ClientConnectionTest.iml" filepath="$PROJECT_DIR$/ClientConnectionTest/ClientConnectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_CC/DP_CC.iml" filepath="$PROJECT_DIR$/DP_CC/DP_CC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Logging/DP_Logging.iml" filepath="$PROJECT_DIR$/DP_Logging/DP_Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_NetworkInterfaceTest/DP_NetworkInterfaceTest.iml" filepath="$PROJECT_DIR$/DP_NetworkInterfaceTest/DP_NetworkInterfaceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Sockets/DP_Sockets.iml" filepath="$PROJECT_DIR$/DP_Sockets/DP_Sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_SocketsLoan/DP_SocketsLoan.iml" filepath="$PROJECT_DIR$/DP_SocketsLoan/DP_SocketsLoan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_SocketsQuentin/DP_SocketsQuentin.iml" filepath="$PROJECT_DIR$/DP_SocketsQuentin/DP_SocketsQuentin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_SocketsReadWrite/DP_SocketsReadWrite.iml" filepath="$PROJECT_DIR$/DP_SocketsReadWrite/DP_SocketsReadWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Threads/DP_Threads.iml" filepath="$PROJECT_DIR$/DP_Threads/DP_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileOpenerJava/FileOpener.iml" filepath="$PROJECT_DIR$/FileOpenerJava/FileOpener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours1/Java_Cours1.iml" filepath="$PROJECT_DIR$/Java_Cours1/Java_Cours1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours2/Java_Cours2.iml" filepath="$PROJECT_DIR$/Java_Cours2/Java_Cours2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours3/Java_Cours3.iml" filepath="$PROJECT_DIR$/Java_Cours3/Java_Cours3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours4/Java_Cours4.iml" filepath="$PROJECT_DIR$/Java_Cours4/Java_Cours4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours5/Java_Cours5.iml" filepath="$PROJECT_DIR$/Java_Cours5/Java_Cours5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours6/Java_Cours6.iml" filepath="$PROJECT_DIR$/Java_Cours6/Java_Cours6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours7/Java_Cours7.iml" filepath="$PROJECT_DIR$/Java_Cours7/Java_Cours7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours8/Java_Cours8.iml" filepath="$PROJECT_DIR$/Java_Cours8/Java_Cours8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours9/Java_Cours9.iml" filepath="$PROJECT_DIR$/Java_Cours9/Java_Cours9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Cours9.1/Java_Cours9.1.iml" filepath="$PROJECT_DIR$/Java_Cours9.1/Java_Cours9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteSokets/ReadWriteSokets.iml" filepath="$PROJECT_DIR$/ReadWriteSokets/ReadWriteSokets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SamuelPintoDaSilvaCC1/SamuelPintoDaSilvaCC1.iml" filepath="$PROJECT_DIR$/SamuelPintoDaSilvaCC1/SamuelPintoDaSilvaCC1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerConnectionTest/ServerConnectionTest.iml" filepath="$PROJECT_DIR$/ServerConnectionTest/ServerConnectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketReadWrite/SocketReadWrite.iml" filepath="$PROJECT_DIR$/SocketReadWrite/SocketReadWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads_DP/Threads_DP.iml" filepath="$PROJECT_DIR$/Threads_DP/Threads_DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Brouillons/_Brouillons.iml" filepath="$PROJECT_DIR$/_Brouillons/_Brouillons.iml" />
+    </modules>
+  </component>
+</project>

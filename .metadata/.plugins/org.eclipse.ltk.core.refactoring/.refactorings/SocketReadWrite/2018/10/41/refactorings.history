@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RWServer.java&apos; to &apos;RWServer.java&apos;&#x0D;&#x0A;- Original project: &apos;SocketReadWrite&apos;&#x0D;&#x0A;- Destination element: &apos;RWServer.java&apos;&#x0D;&#x0A;- Original element: &apos;RWServer.java&apos;" description="Copy compilation unit" destination="/src&lt;{RWServer.java" element1="/src&lt;{RWServer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1539256760553" units="1" version="1.0"/>
+</session>

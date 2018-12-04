@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;FenetreSynchro&apos; to &apos;Java_Cours6/src&apos;&#x0D;&#x0A;- Original project: &apos;Java_Cours5&apos;&#x0D;&#x0A;- Destination element: &apos;Java_Cours6/src&apos;&#x0D;&#x0A;- Original element: &apos;Java_Cours5/src/FenetreSynchro&apos;" description="Copy package" destination="=Java_Cours6/src" element1="/src&lt;FenetreSynchro" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1540536171349" version="1.0"/>
+</session>

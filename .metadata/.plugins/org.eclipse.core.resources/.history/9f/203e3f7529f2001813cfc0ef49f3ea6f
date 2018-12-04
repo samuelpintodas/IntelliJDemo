@@ -1,0 +1,88 @@
+import java.util.ArrayList;
+
+public class Sudoku
+{
+	
+	   static int [][]grille = {	{0, 0, 4, 	0, 0, 0, 	5, 0, 0},
+  			 						{0, 0, 3, 	2, 0, 6, 	9, 0, 0},
+  			 						{6, 0, 0, 	0, 5, 0, 	0, 0, 3},
+  			 	
+  			 						{0, 4, 1, 	7, 0, 9, 	3, 5, 0},
+  			 						{0, 0, 0, 	0, 0, 0, 	0, 0, 0},
+  			 						{0, 5, 6, 	3, 0, 2, 	8, 7, 0},
+  			 	
+  			 						{8, 0, 0, 	0, 3, 0, 	0, 0, 7},
+  			 						{0, 0, 2, 	9, 0, 7, 	1, 0, 0},
+  			 						{0, 0, 7, 	0, 0, 0, 	6, 0, 0}} ;
+
+	
+	public Sudoku ()
+	{
+		
+		resolve(0, 0);
+			
+	}   
+	   
+	private void resolve(int row, int column)
+	{
+		
+		
+		
+	}
+	
+	private boolean placement(int row, int column)
+	{
+		
+		ArrayList<Integer> miniMatrix = myMiniMatrix(row, column);
+		int number = grille[row][column];
+		
+		if(miniMatrix.contains(number))
+			return true;
+		
+		return false;
+	}
+
+	private ArrayList<Integer> myMiniMatrix(int row, int column)
+	{
+		ArrayList <Integer> numbers = new ArrayList<Integer>();
+		int startRow = testLine(row);
+		int startColumn = testLine(column);
+		int lastRow = startRow + 2;
+		int lastColumn = startColumn + 2;
+		
+		for(int i = startRow; i<=lastRow; i++)
+		{
+			for (int j = startColumn; j<=lastColumn; j ++)
+			{
+				numbers.add(grille[i][j]);
+			}
+		}
+		
+		return numbers;
+	}
+	
+	private int testLine(int line)
+	{
+		int myLine;
+		
+		if(line < 6)
+		{
+			if(line < 3)
+				return 0;
+			else
+				return 3;
+		}
+		else
+			return 6;
+	}
+
+	public static void main(String[] args)
+	{
+
+		Sudoku test = new Sudoku();
+
+	}
+	
+
+
+}

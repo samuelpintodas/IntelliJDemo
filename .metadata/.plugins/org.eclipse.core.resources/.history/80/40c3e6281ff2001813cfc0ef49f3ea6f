@@ -1,0 +1,80 @@
+
+public class Sudoku
+{
+	
+	   static int [][]grille = {	{0, 0, 4, 	0, 0, 0, 	5, 0, 0},
+  			 						{0, 0, 3, 	2, 0, 6, 	9, 0, 0},
+  			 						{6, 0, 0, 	0, 5, 0, 	0, 0, 3},
+  			 	
+  			 						{0, 4, 1, 	7, 0, 9, 	3, 5, 0},
+  			 						{0, 0, 0, 	0, 0, 0, 	0, 0, 0},
+  			 						{0, 5, 6, 	3, 0, 2, 	8, 7, 0},
+  			 	
+  			 						{8, 0, 0, 	0, 3, 0, 	0, 0, 7},
+  			 						{0, 0, 2, 	9, 0, 7, 	1, 0, 0},
+  			 						{0, 0, 7, 	0, 0, 0, 	6, 0, 0}} ;
+
+	
+	public Sudoku (int [][] matrix)
+	{
+		
+		resolve(matrix);
+			
+	}   
+	   
+	private void resolve(int[][] matrix)
+	{
+		
+		
+		
+	}
+	
+	private boolean placement(int number, int row, int column)
+	{
+		
+		int [][] miniMatrix = myMiniMatrix(row, column);
+		
+		
+		return false;
+	}
+
+	private int[][] myMiniMatrix(int row, int column)
+	{
+		int [][] m;
+		int startRow;
+		int startColumn;
+		
+
+		
+		
+		
+		
+
+		return null;
+	}
+	
+	private int testLine(int line)
+	{
+		int myLine;
+		
+		if(line < 6)
+		{
+			if(line < 3)
+				myLine = 0;
+			else
+				myLine = 3;
+		}
+		else
+			myLine = 6;
+	}
+
+	public static void main(String[] args)
+	{
+
+		Sudoku test = new Sudoku(grille);
+
+	}
+	
+
+
+}

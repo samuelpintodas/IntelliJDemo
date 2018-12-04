@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Java_Cours6/src/FenetreSynchro_2&apos;&#x0D;&#x0A;- Original project: &apos;Java_Cours6&apos;&#x0D;&#x0A;- Destination element: &apos;Java_Cours6/src/FenetreSynchro_2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     FenetreSynchro.myFrame.java&#x0D;&#x0A;     FenetreSynchro.main.java" description="Copy compilation units" destination="/src&lt;FenetreSynchro_2" element1="/src&lt;FenetreSynchro{myFrame.java" element2="/src&lt;FenetreSynchro{main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540536673953" units="2" version="1.0"/>
+</session>
